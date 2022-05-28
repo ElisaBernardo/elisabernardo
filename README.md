@@ -1,6 +1,6 @@
-### Olá! Eu sou Elisa Bernardo 😉
+### Olá! Eu sou Elisangela Bernardo Alves 😉
 
-- 💻 Em busca da minha primeira oportunidade na área de tecnologia.
+- 👩‍💻 Em busca da minha primeira oportunidade na área de tecnologia.
 - 📚 Estudante de ADS.
 - 😄 Pronouns: ela/dela
 
