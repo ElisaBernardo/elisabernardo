@@ -1,7 +1,7 @@
 ### Olá! Eu sou Elisangela Bernardo Alves 😉
 
-- 👩‍💻 Em busca da minha primeira oportunidade na área de tecnologia.
-- 📚 Estudante de ADS.
+- 👩‍💻 Em busca da minha primeira oportunidade na área de Análise de Dados.
+- 📚 Estudante de Tecnologia em Banco de Dados.
 - 😄 Pronouns: ela/dela
 
 <div align="left">
@@ -24,6 +24,5 @@
   <a href="https://instagram.com/elibernardoalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:elisangelabernardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/elisabernardo/elisabernardo/blob/output/dist/github-contribution-grid-snake.svg)
-  
+   
 </div>
