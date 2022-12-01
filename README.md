@@ -4,6 +4,8 @@
 - 📚 Estudante de Tecnologia em Banco de Dados.
 - 😄 Pronouns: ela/dela
 
+Meu site de portfólio do Power BI: https://sites.google.com/view/portfolio-elisangela/in%C3%ADcio
+
 <div align="left">
   <a href="https://github.com/elisabernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisabernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
